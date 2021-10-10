@@ -8,9 +8,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-	background: #0f2027;
-	background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
-	background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background: #0f2027;
+    background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
 }
 .glow-on-hover {
     width: 220px;
