@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 @media only screen and (max-width: 768px) {
-  b {
+  a {
     font-size: 20px;
   }
 }
 
 @media only screen and (max-width: 320px) {
-  b {
+  a {
     font-size: 10px;
   }
 }
