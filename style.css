@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Coves Light;
+    src: url("../assets/fonts/Coves Light.otf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 html, body {
   height: 100%;
 }
