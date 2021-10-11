@@ -3,6 +3,11 @@
     src: url("assets/fonts/Coves_Light.otf") format('truetype');
     font-weight: normal;
     font-style: normal;
+@font-face {
+    font-family: Coves Bold;
+    src: url("assets/fonts/Coves_Bold.otf") format('truetype');
+    font-weight: normal;
+    font-style: normal
 }
 html, body {
   height: 100%;
